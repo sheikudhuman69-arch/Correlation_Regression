@@ -71,4 +71,3 @@ plt.show()
 
 # Result
 Thus, the program to to analyze given data using co-efficient of correlation and regression line has been done successfully.
-# Github Link : https://github.com/PriyaRithanya/Correlation_Regression.git
